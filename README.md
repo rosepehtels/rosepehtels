@@ -1,16 +1,19 @@
-## Hi there 👋
+## hi there! 😌
 
-<!--
-**rosepehtels/rosepehtels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thanks for stopping by! my name is ashley, and i'm a self taught web developer, developer, programmer and coder. i make tumblr themes for personal blogs and passion projects in my free time. my mission is to create unique and accessible websites and produts for everyone to easily install, use & customize regardless of coding experience. i've been self-taught since early 2020 and am now starting a master's degree in computer science at boston university. 
 
-Here are some ideas to get you started:
+you can find more of myself and my personal life at my instagram(@rosepehtels).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+linkedin: [@rosepehtels](https://www.linkedin.com/in/rosepehtels/)
+
+---
+## projects
+* [rosethms](https://rosethms.tumblr.com/) - free & premium tumblr themes, pages, widgets & more
+* [orchid](https://github.com/orchid) - personal mobile app
+* [rosebot](https://www.discord.com/) - discord utility bot(personal use)
+
+---
+
+---
+## work with me! 
+✉️ [public brand/rosepehtels](mailto:contactrosepehtels@gmail.com) / [personal/private](mailto:seeler230@gmail.com)
