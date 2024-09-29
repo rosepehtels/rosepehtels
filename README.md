@@ -8,7 +8,6 @@ linkedin:
 
 ---
 ## projects
-* [rosethms](https://rosethms.tumblr.com/) - free & premium tumblr themes, pages, widgets & more
 * [orchid](https://github.com/orchid) - personal mobile app
 * [rosebot](https://www.discord.com/) - discord utility bot(personal use)
 
