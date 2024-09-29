@@ -11,7 +11,3 @@ linkedin:
 * [orchid](https://github.com/orchid) - personal mobile app
 * [rosebot](https://www.discord.com/) - discord utility bot(personal use)
 
----
-
----
-## work with me! 
